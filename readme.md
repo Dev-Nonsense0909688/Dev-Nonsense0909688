@@ -47,14 +47,6 @@ https://github.com/Dev-Nonsense0909688/Conduit-Runtime
 
 ---
 
-# 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Dev-Nonsense0909688\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Nonsense0909688\&layout=compact\&theme=tokyonight)
-
----
-
 # ⚡ Fun Fact
 
 Most of my projects start as **random experiments during study breaks**.
