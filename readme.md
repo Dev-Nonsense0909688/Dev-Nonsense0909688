@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:blackplasma001@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=Nandi&color=a855f7&style=flat-square)
 
-![Work in Progress](https://img.shields.io/badge/%F0%9F%94%B5%20Work%20in%20Progress-3b82f6?style=flat-square) [![Building · GitPulse](https://img.shields.io/badge/Building%20%E2%86%92%20GitPulse-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/Dev-Nonsense0909688/GitPulse) ![Kolkata](https://img.shields.io/badge/Kolkata-333?style=flat-square)
+![Work in Progress](https://img.shields.io/badge/%F0%9F%94%B5%20Work%20in%20Progress-3b82f6?style=flat-square) [![Building · GitPulse](https://img.shields.io/badge/Building%20%E2%86%92%20GitPulse-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/Dev-Nonsense0909688/GitPulse) ![India](https://img.shields.io/badge/Kolkata-333?style=flat-square)
 
 </div>
 
