@@ -77,7 +77,6 @@ I build stuff that works. Sometimes clean, sometimes cursed.
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/Nandi">github.com/Nandi</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=120&section=footer" width="100%"/>
 
