@@ -57,13 +57,7 @@ I build stuff that works. Sometimes clean, sometimes cursed.
 
 ### GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nandi&show_icons=true&theme=midnight_purple&include_all_commits=true&count_private=true&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandi&layout=compact&langs_count=8&theme=midnight_purple&hide_border=true"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nandi&theme=midnight_purple&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+![Badge](https://bishop-periodically-arizona-bench.trycloudflare.com/card/Dev-Nonsense0909688?v=5)
 
 ---
 
